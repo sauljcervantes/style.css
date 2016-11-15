@@ -1,4 +1,3 @@
-# style.css
 h1 {
     text-align: center; 
     font-family: 'Acme', sans-serif;
@@ -14,10 +13,14 @@ h1 {
     background-color: #ffee00;
     font-family: 'Acme', sans-serif;
     border: 3px solid;
-    padding: 20px;
+    padding: 50px;
+    margin: 50px;
+}
+.photo {
+    padding: 400px;
     margin: 50px;
 }
 body { 
-    Background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWOjZHObjuH7MTlh0dM7YhwI7lRBRxHqFJ6vxZm4PqGUd-Zq5")
+    Background-image: url("https://s-media-cache-ak0.pinimg.com/originals/cf/a8/1e/cfa81eef5aaade762cfd2a1d820da4c5.png")
 }
 
